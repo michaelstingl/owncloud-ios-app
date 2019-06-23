@@ -1,0 +1,5 @@
+### 40_ios_quick_access_demo.png
+
+1. Add account alice@demo.shniq.cloud
+2. Open account alice@demo.shniq.cloud
+3. Tap [Quick Access]

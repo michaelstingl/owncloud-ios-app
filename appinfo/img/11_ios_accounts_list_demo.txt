@@ -1,0 +1,5 @@
+### 11_ios_accounts_list_demo.png
+
+1. Add account alice@demo.shniq.cloud
+2. Add account demo:demo@demo.owncloud.org
+3. Add account admin:admin@demo.owncloud.org

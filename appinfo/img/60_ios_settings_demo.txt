@@ -1,0 +1,8 @@
+### 60_ios_settings_demo.png
+
+1. Tap Settings
+2. Enable Passcode Lock
+3. Tap [1] 4x
+4. Tap [1] 4x
+5. Enable Face ID
+6. Tap [1] 4x
