@@ -6,3 +6,9 @@
 4. Tap [1] 4x
 5. Enable Face ID
 6. Tap [1] 4x
+
+---
+
+## App Settings
+
+### Secure Data Management

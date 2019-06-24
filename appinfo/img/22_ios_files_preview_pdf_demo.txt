@@ -4,3 +4,9 @@
 2. Open account alice@demo.shniq.cloud
 3. Open /ownCloud Manual.pdf
 4. Goto page 13
+
+---
+
+## PDF Viewer
+
+### Easy Search And Navigation

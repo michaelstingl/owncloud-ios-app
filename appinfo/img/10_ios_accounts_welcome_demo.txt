@@ -1,3 +1,9 @@
 ### 10_ios_accounts_welcome_demo.png
 
 0. Open app
+
+---
+
+## Connect With ownCloud
+
+## Add Your ownCloud Server
